@@ -1,0 +1,10 @@
+logo = f"""
+         {k}╦  ╦{p}┬┌┬┐{k}   ╔╗ {p}┌─┐┬┌─
+         {k}╚╗╔╝{p}│ ││{m}───{k}╠╩╗{p}│ │├┴┐
+         {k} ╚╝ {p}┴─┴┘{k}   ╚═╝{p}└─┘┴ ┴
+{m}÷=====================================÷
+{m}|    {p}KETIK : {m}[{h}N{m}] {p}UNTUK {h}NEXT {p}PAGE      {m}|
+{m}|    {p}KETIK : {m}[{h}I{m}] {p}UNTUK {h}INFO {p}TOOLS     {m}|
+{m}|    {p}KETIK : {m}[{h}J{m}] {p}UNTUK {h}JOIN {p}GROUP CHAT{m}|
+{m}÷=====================================÷"""
+print(logo)
