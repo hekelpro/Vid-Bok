@@ -5,7 +5,7 @@ import sys, os, io, re, time
 try:
 	import progressbar
 except:
-	os.system("pip install progressbar2")
+	os.system("easy_install progressbar2")
 try:
 	import requests, bs4
 except ModuleNotFoundError:
