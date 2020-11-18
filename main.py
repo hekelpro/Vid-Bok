@@ -24,7 +24,7 @@ os.system(
 		"clear"
 	)
 print(
-		"# GET LICENSE: https://semawur.com/WneLY\n"
+		"# GET LICENSE: https://semawur.com/hh1ShgV9pD\n"
 	)
 kukis = input(
 		"# License: "
